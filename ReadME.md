@@ -31,3 +31,6 @@ I did not use mongodb cause it is simple little project.
 2. **Install dependencies** by running:
    ```bash
    npm install
+3. **start server** by running:
+      ```bash
+      npm start
